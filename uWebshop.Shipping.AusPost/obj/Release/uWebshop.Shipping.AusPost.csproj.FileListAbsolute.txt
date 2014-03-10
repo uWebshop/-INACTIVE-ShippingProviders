@@ -1,0 +1,17 @@
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Shipping.AusPost.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Shipping.AusPost.pdb
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\umbraco.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Common.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Domain.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.DataAccess.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\Examine.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\UmbracoExamine.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\Lucene.Net.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Common.pdb
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.Domain.pdb
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\umbraco.xml
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\uWebshop.DataAccess.pdb
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\bin\Release\umbraco.XmlSerializers.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\obj\Release\uWebshop.Shipping.AusPost.csprojResolveAssemblyReference.cache
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\obj\Release\uWebshop.Shipping.AusPost.dll
+C:\projects\uwebshop2git\ShippingProviders\uWebshop.Shipping.AusPost\obj\Release\uWebshop.Shipping.AusPost.pdb
