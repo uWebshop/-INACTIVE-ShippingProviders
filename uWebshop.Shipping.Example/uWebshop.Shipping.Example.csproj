@@ -39,11 +39,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\uWebshop.Common\uWebshop.Common.csproj">
-      <Project>{61EEF91B-22ED-48F0-83EB-CDC7431C5BDE}</Project>
+      <Project>{61eef91b-22ed-48f0-83eb-cdc7431c5bde}</Project>
       <Name>uWebshop.Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Core\uWebshop.Domain\uWebshop.Domain.csproj">
-      <Project>{30AC1FB6-EB29-4E4E-92C4-0481C503215C}</Project>
+      <Project>{30ac1fb6-eb29-4e4e-92c4-0481c503215c}</Project>
       <Name>uWebshop.Domain</Name>
     </ProjectReference>
   </ItemGroup>
